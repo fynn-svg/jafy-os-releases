@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "com.google.Chrome",
+      "name": "Google Chrome",
+      "cat": "browser",
+      "wm": "google-chrome",
+      "top": 1,
+      "desc": "Der Browser von Google mit Synchronisierung deines Google-Kontos."
+    },
+    {
+      "id": "org.mozilla.firefox",
+      "name": "Firefox",
+      "cat": "browser",
+      "wm": "firefox",
+      "desc": "Schneller, freier Browser mit starkem Datenschutz."
+    },
+    {
+      "id": "com.brave.Browser",
+      "name": "Brave",
+      "cat": "browser",
+      "wm": "brave",
+      "desc": "Browser mit eingebautem Werbe- und Tracker-Blocker."
+    },
+    {
+      "id": "com.microsoft.Edge",
+      "name": "Microsoft Edge",
+      "cat": "browser",
+      "wm": "microsoft-edge",
+      "desc": "Der Browser von Microsoft."
+    },
+    {
+      "id": "org.libreoffice.LibreOffice",
+      "name": "LibreOffice",
+      "cat": "office",
+      "wm": "libreoffice",
+      "top": 1,
+      "desc": "Texte, Tabellen und Präsentationen, kompatibel mit Word, Excel und PowerPoint."
+    },
+    {
+      "id": "org.onlyoffice.desktopeditors",
+      "name": "ONLYOFFICE",
+      "cat": "office",
+      "wm": "desktopeditors",
+      "desc": "Office-Paket mit Microsoft-Office-ähnlicher Oberfläche."
+    },
+    {
+      "id": "org.mozilla.Thunderbird",
+      "name": "Thunderbird",
+      "cat": "office",
+      "wm": "thunderbird",
+      "desc": "E-Mail, Kalender und Kontakte."
+    },
+    {
+      "id": "md.obsidian.Obsidian",
+      "name": "Obsidian",
+      "cat": "office",
+      "wm": "obsidian",
+      "desc": "Notizen und Wissensdatenbank in Markdown."
+    },
+    {
+      "id": "com.discordapp.Discord",
+      "name": "Discord",
+      "cat": "chat",
+      "wm": "discord",
+      "top": 1,
+      "desc": "Chat, Sprache und Video für Communitys und Freunde."
+    },
+    {
+      "id": "org.telegram.desktop",
+      "name": "Telegram",
+      "cat": "chat",
+      "wm": "telegram",
+      "desc": "Schneller Messenger mit Gruppen und Kanälen."
+    },
+    {
+      "id": "org.signal.Signal",
+      "name": "Signal",
+      "cat": "chat",
+      "wm": "signal",
+      "desc": "Verschlüsselter Messenger."
+    },
+    {
+      "id": "com.slack.Slack",
+      "name": "Slack",
+      "cat": "chat",
+      "wm": "slack",
+      "desc": "Team-Kommunikation."
+    },
+    {
+      "id": "us.zoom.Zoom",
+      "name": "Zoom",
+      "cat": "chat",
+      "wm": "zoom",
+      "desc": "Videokonferenzen."
+    },
+    {
+      "id": "com.spotify.Client",
+      "name": "Spotify",
+      "cat": "media",
+      "wm": "spotify",
+      "top": 1,
+      "desc": "Musik, Podcasts und Hörbücher."
+    },
+    {
+      "id": "org.videolan.VLC",
+      "name": "VLC",
+      "cat": "media",
+      "wm": "vlc",
+      "desc": "Spielt fast jedes Video- und Audioformat."
+    },
+    {
+      "id": "com.obsproject.Studio",
+      "name": "OBS Studio",
+      "cat": "media",
+      "wm": "obs",
+      "desc": "Bildschirm aufnehmen und streamen."
+    },
+    {
+      "id": "org.audacityteam.Audacity",
+      "name": "Audacity",
+      "cat": "media",
+      "wm": "audacity",
+      "desc": "Audio aufnehmen und schneiden."
+    },
+    {
+      "id": "com.valvesoftware.Steam",
+      "name": "Steam",
+      "cat": "games",
+      "wm": "steam",
+      "top": 1,
+      "desc": "Spiele kaufen, installieren und mit Freunden spielen."
+    },
+    {
+      "id": "net.lutris.Lutris",
+      "name": "Lutris",
+      "cat": "games",
+      "wm": "lutris",
+      "desc": "Spiele aus vielen Quellen an einem Ort."
+    },
+    {
+      "id": "com.heroicgameslauncher.hgl",
+      "name": "Heroic Games Launcher",
+      "cat": "games",
+      "wm": "heroic",
+      "desc": "Epic-Games- und GOG-Bibliothek."
+    },
+    {
+      "id": "org.prismlauncher.PrismLauncher",
+      "name": "Prism Launcher",
+      "cat": "games",
+      "wm": "prismlauncher",
+      "desc": "Minecraft mit mehreren Profilen und Mods."
+    },
+    {
+      "id": "com.visualstudio.code",
+      "name": "Visual Studio Code",
+      "cat": "dev",
+      "wm": "code",
+      "top": 1,
+      "desc": "Code-Editor von Microsoft mit Erweiterungen."
+    },
+    {
+      "id": "com.vscodium.codium",
+      "name": "VSCodium",
+      "cat": "dev",
+      "wm": "vscodium",
+      "desc": "VS Code ohne Telemetrie."
+    },
+    {
+      "id": "io.github.shiftey.Desktop",
+      "name": "GitHub Desktop",
+      "cat": "dev",
+      "wm": "github desktop",
+      "desc": "Git und GitHub ohne Kommandozeile."
+    },
+    {
+      "id": "com.jetbrains.IntelliJ-IDEA-Community",
+      "name": "IntelliJ IDEA Community",
+      "cat": "dev",
+      "wm": "jetbrains-idea",
+      "desc": "Entwicklungsumgebung für Java und Kotlin."
+    },
+    {
+      "id": "org.gimp.GIMP",
+      "name": "GIMP",
+      "cat": "graphics",
+      "wm": "gimp",
+      "desc": "Bildbearbeitung."
+    },
+    {
+      "id": "org.inkscape.Inkscape",
+      "name": "Inkscape",
+      "cat": "graphics",
+      "wm": "inkscape",
+      "desc": "Vektorgrafiken zeichnen."
+    },
+    {
+      "id": "org.kde.krita",
+      "name": "Krita",
+      "cat": "graphics",
+      "wm": "krita",
+      "desc": "Digitales Malen und Zeichnen."
+    },
+    {
+      "id": "org.blender.Blender",
+      "name": "Blender",
+      "cat": "graphics",
+      "wm": "blender",
+      "desc": "3D-Modellierung, Animation und Rendering."
+    },
+    {
+      "id": "com.github.tchx84.Flatseal",
+      "name": "Flatseal",
+      "cat": "tools",
+      "wm": "flatseal",
+      "desc": "Berechtigungen installierter Apps verwalten."
+    },
+    {
+      "id": "org.qbittorrent.qBittorrent",
+      "name": "qBittorrent",
+      "cat": "tools",
+      "wm": "qbittorrent",
+      "desc": "Dateien per BitTorrent laden."
+    },
+    {
+      "id": "org.keepassxc.KeePassXC",
+      "name": "KeePassXC",
+      "cat": "tools",
+      "wm": "keepassxc",
+      "desc": "Passwort-Manager, offline."
+    }
+  ]
+}
